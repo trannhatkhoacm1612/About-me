@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tran Woffy
+- 👋 Hi, I’m Tran Woffy, I'm a student at UIT
 - 👀 I’m interested in Maths, AI, ...
 - 🌱 I’m currently learning Machine Learning, Deep Learning for Computer Vision
 <!---
